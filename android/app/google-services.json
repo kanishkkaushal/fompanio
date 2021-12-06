@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "134469680235",
+    "firebase_url": "https://brop-2895f-default-rtdb.firebaseio.com",
+    "project_id": "brop-2895f",
+    "storage_bucket": "brop-2895f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134469680235:android:841a919cc5216666ba452e",
+        "android_client_info": {
+          "package_name": "com.example.brop_backend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134469680235-6s8a0o11jtrisqc2gle4aed3ti3i3ik3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brop_backend",
+            "certificate_hash": "9a5e782ce79708816131cb99361e75ccd49098fb"
+          }
+        },
+        {
+          "client_id": "134469680235-528hvbo7ujo7ps4q2ac446c8oac0gsci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOr-D9YyEGN9rpkVXoWMCqkEHyJccv9-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134469680235-528hvbo7ujo7ps4q2ac446c8oac0gsci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
